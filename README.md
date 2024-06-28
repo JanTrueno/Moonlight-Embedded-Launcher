@@ -37,5 +37,6 @@ This repo contains a Moonlight-Embedded Launcher, specifically designed for hand
 ### Additional Information:
 
 -   A PortMaster package is provided on the release page.
--   If you wish to make this work on other platforms, refer to the shell script available there. The launcher has some minor hardcoded variables built-in the main.lua required for a seemless experience on PortMaster.
+-   Place all the sourcecode into your Love2D folder and run the gui folder which containts the sourcecode.
+-   If you wish to make this work on other platforms, refer to the shell script available in the PortMaster package. The launcher has some minor hardcoded variables built-in the main.lua required for a seemless experience on PortMaster.
 -   This code is available under the GNU GPLv3 license. Please give credit to the [original developer](https://github.com/JanTrueno) when using or modifying it.
